@@ -16,38 +16,62 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast focused on building intelligent, human-centered products. I enjoy connecting polished web interfaces with reliable backends, useful data systems, and agentic AI workflows that can reason, use tools, and solve real problems.
+Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast building intelligent, production-minded web products from interface to infrastructure. I combine modern frontend engineering, reliable backend systems, strong data foundations, and agentic AI to create software that is useful, scalable, and ready to ship.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💻 Full-Stack Development</h3>
-      <p>Building responsive React experiences, backend services, authentication, databases, and complete products from idea to deployment.</p>
+      <p>Building responsive interfaces with React, Next.js, TypeScript, and Tailwind CSS, backed by Node.js, Express, and well-designed REST APIs.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI / ML</h3>
-      <p>Creating practical AI experiences with LLM integrations, natural-language interfaces, intelligent data tools, and real-time responses.</p>
+    <td width="50%" valign="top">
+      <h3>🗄️ Data Engineering</h3>
+      <p>Designing reliable data layers with PostgreSQL, MySQL, Prisma, Redis, Firebase, and practical SQL-driven workflows.</p>
     </td>
-    <td width="33%" valign="top">
-      <h3>🤖 Agentic AI</h3>
-      <p>Exploring multi-agent orchestration, tool-driven workflows, persistent conversations, and document-aware assistants.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI / ML & Agentic AI</h3>
+      <p>Exploring LLM integration, multi-agent orchestration, tool use, memory, natural-language interfaces, and context-aware assistants.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Production Engineering</h3>
+      <p>Shipping with Docker, GitHub Actions, CI/CD, AWS, and Vercel while prioritizing testing, security, system design, and monitoring.</p>
     </td>
   </tr>
 </table>
 
-- 🔨 I turn ambitious ideas into **working, user-friendly products**
-- ⚙️ I work across **React, TypeScript, JavaScript, Python, Node.js, MySQL, and Firebase**
-- 🚀 I care about **clean interfaces, thoughtful architecture, and reliable delivery**
-- 🌱 I learn by building, experimenting, and improving every project
-- 🤝 I'm open to collaborating on meaningful AI and open-source products
+- 🔨 I turn ambitious ideas into **complete, user-friendly products**
+- 🧱 I care about **clean architecture, secure systems, and maintainable code**
+- 🧪 I value **testing, observability, continuous delivery, and thoughtful iteration**
+- 🌱 I learn by building and welcome collaboration on meaningful full-stack and AI products
 
 ---
 
 ## 🎯 Current Focus
 
-| AI Engineering | Full-Stack Products | Developer Experience |
-| :--- | :--- | :--- |
-| Agent orchestration, intelligent assistants, and document-aware workflows | Fast, responsive React applications backed by reliable data systems | Practical tools that make complex work simpler and more productive |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ Full-Stack Systems</h3>
+      <p>Creating end-to-end applications with React, Next.js, Node.js, Express, REST APIs, and production-ready data layers.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Agentic AI Products</h3>
+      <p>Building assistants and multi-agent workflows that combine LLMs, tools, memory, context, and natural-language interaction.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ Cloud & DevOps</h3>
+      <p>Improving containerized delivery, GitHub Actions, CI/CD automation, and deployments across AWS and Vercel.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Production Quality</h3>
+      <p>Deepening my practice in testing, security, system design, performance, monitoring, and scalable architecture.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
