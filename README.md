@@ -55,15 +55,35 @@ Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast focu
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Frontend Engineering
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Data
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+### AI / ML & Agentic AI
+
+![Python](https://img.shields.io/badge/Python_for_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logo=probot&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge&logo=dependabot&logoColor=white)
+![Natural Language](https://img.shields.io/badge/Natural_Language_AI-0F9D58?style=for-the-badge&logo=googleassistant&logoColor=white)
+
+### Tools & Delivery
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -77,27 +97,27 @@ Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast focu
 <table>
   <tr>
     <td width="25%" align="center">
-      <h3>🤖 AI Systems</h3>
-      <sub>Agents, assistants, and intelligent workflows</sub>
+      <h3>💻 Full-Stack Builder</h3>
+      <sub>Complete products across interface, API, data, and deployment</sub>
     </td>
     <td width="25%" align="center">
-      <h3>⚛️ Frontend</h3>
-      <sub>Responsive React experiences with modern tooling</sub>
+      <h3>🧠 AI / ML Explorer</h3>
+      <sub>Practical LLM integrations and intelligent user experiences</sub>
     </td>
     <td width="25%" align="center">
-      <h3>🗄️ Data</h3>
-      <sub>SQL intelligence, Firebase, and reliable persistence</sub>
+      <h3>🤖 Agentic AI</h3>
+      <sub>Multi-agent orchestration, tools, memory, and context-aware workflows</sub>
     </td>
     <td width="25%" align="center">
-      <h3>🚀 Delivery</h3>
-      <sub>From product idea to polished deployment</sub>
+      <h3>🚀 Product Mindset</h3>
+      <sub>Useful ideas shaped into polished, reliable, deployable products</sub>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<code>IDEA</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>INTELLIGENCE</code> → <code>SHIP</code>
+<code>INTERFACE</code> → <code>API</code> → <code>DATA</code> → <code>AI AGENTS</code> → <code>DEPLOY</code>
 
 <br />
 
