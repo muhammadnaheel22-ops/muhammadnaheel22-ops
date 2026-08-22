@@ -55,24 +55,36 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 
 ---
 
-## 📊 GitHub Analytics
+## ✨ Developer Snapshot
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3>🤖 AI Systems</h3>
+      <sub>Agents, assistants, and intelligent workflows</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>⚛️ Frontend</h3>
+      <sub>Responsive React experiences with modern tooling</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>🗄️ Data</h3>
+      <sub>SQL intelligence, Firebase, and reliable persistence</sub>
+    </td>
+    <td width="25%" align="center">
+      <h3>🚀 Delivery</h3>
+      <sub>From product idea to polished deployment</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadnaheel22-ops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Muhammad Naheel's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadnaheel22-ops&theme=tokyonight&hide_border=true" alt="Muhammad Naheel's GitHub streak" />
+<code>IDEA</code> → <code>DESIGN</code> → <code>BUILD</code> → <code>INTELLIGENCE</code> → <code>SHIP</code>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadnaheel22-ops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Naheel's top languages" />
+<br />
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Muhammad Naheel's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadnaheel22-ops&theme=tokyo-night&hide_border=true&area=true)](https://github.com/muhammadnaheel22-ops)
+[**View my live GitHub activity →**](https://github.com/muhammadnaheel22-ops#js-contribution-activity)
 
 </div>
 
