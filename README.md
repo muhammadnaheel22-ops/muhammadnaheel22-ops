@@ -1,11 +1,14 @@
 <div align="center">
 
-# Hey 👋, I'm Muhammad Naheel
+# Hi, I'm Muhammad Naheel 👋
 
-### AI Student · Full-Stack Developer · AI/ML Enthusiast
+### I build intelligent products for the web
+
+**AI Student · Full-Stack Developer · AI/ML Enthusiast**
 
 [![Profile views](https://komarev.com/ghpvc/?username=muhammadnaheel22-ops&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammadnaheel22-ops)
 [![GitHub followers](https://img.shields.io/github/followers/muhammadnaheel22-ops?label=Followers&style=flat&color=0e75b6)](https://github.com/muhammadnaheel22-ops?tab=followers)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=flat&logo=github)](https://github.com/muhammadnaheel22-ops?tab=repositories)
 
 </div>
 
@@ -20,6 +23,14 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 - 💻 Working with **Python, JavaScript, TypeScript, React, and MySQL**
 - ⚡ Interested in real-time AI, developer tools, automation, and useful SaaS products
 - 🤝 Open to collaborating on innovative AI and open-source projects
+
+---
+
+## 🎯 Current Focus
+
+| AI Engineering | Full-Stack Products | Developer Experience |
+| :--- | :--- | :--- |
+| Agent orchestration, intelligent assistants, and document-aware workflows | Fast, responsive React applications backed by reliable data systems | Practical tools that make complex work simpler and more productive |
 
 ---
 
@@ -69,26 +80,48 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/Fluxora-ai">⚡ Fluxora AI</a></h3>
+      <p>Fast, intelligent, real-time streaming AI chat powered by Groq.</p>
+      <p><code>JavaScript</code> <code>Groq</code> <code>Streaming AI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/Nexora-AI">🧠 Nexora AI</a></h3>
+      <p>Production-ready multi-agent platform with orchestration, persistent conversations, and document-aware assistance.</p>
+      <p><code>JavaScript</code> <code>Multi-Agent</code> <code>React</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/Devpilot-AI">🧑‍💻 Devpilot AI</a></h3>
+      <p>AI developer assistant built with React 19, Gemini AI, Firebase Authentication, and Firestore.</p>
+      <p><code>React 19</code> <code>Gemini</code> <code>Firebase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/DataLens-AI">📊 DataLens AI</a></h3>
+      <p>AI-powered SQL assistant for natural-language database queries and instant insights.</p>
+      <p><code>TypeScript</code> <code>SQL</code> <code>AI</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/Skyintel-ai">🌦️ Skyintel AI</a></h3>
+      <p>Weather assistant for Pakistan with real-time insights, forecasts, alerts, and location-aware information.</p>
+      <p><code>JavaScript</code> <code>Weather API</code> <code>AI Assistant</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/muhammadnaheel22-ops/neuraflow-react-ai">✨ NeuraFlow</a></h3>
+      <p>React AI SaaS application designed to accelerate AI-assisted application development.</p>
+      <p><code>React</code> <code>CSS</code> <code>SaaS</code></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<a href="https://github.com/muhammadnaheel22-ops/Fluxora-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=Fluxora-ai&theme=tokyonight&hide_border=true" alt="Fluxora AI" />
-</a>
-<a href="https://github.com/muhammadnaheel22-ops/Nexora-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=Nexora-AI&theme=tokyonight&hide_border=true" alt="Nexora AI" />
-</a>
-<a href="https://github.com/muhammadnaheel22-ops/Devpilot-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=Devpilot-AI&theme=tokyonight&hide_border=true" alt="Devpilot AI" />
-</a>
-<a href="https://github.com/muhammadnaheel22-ops/DataLens-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=DataLens-AI&theme=tokyonight&hide_border=true" alt="DataLens AI" />
-</a>
-<a href="https://github.com/muhammadnaheel22-ops/Skyintel-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=Skyintel-ai&theme=tokyonight&hide_border=true" alt="Skyintel AI" />
-</a>
-<a href="https://github.com/muhammadnaheel22-ops/neuraflow-react-ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadnaheel22-ops&repo=neuraflow-react-ai&theme=tokyonight&hide_border=true" alt="NeuraFlow React AI" />
-</a>
+[**Explore all repositories →**](https://github.com/muhammadnaheel22-ops?tab=repositories)
 
 </div>
 
@@ -96,9 +129,9 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### Let's build something useful ⭐
 
-If one of my projects helps you, consider giving it a star.
+Explore my work, open an issue, or contribute to a project that interests you.
 
 </div>
 
