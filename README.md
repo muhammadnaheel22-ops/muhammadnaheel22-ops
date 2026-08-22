@@ -127,35 +127,36 @@ Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast focu
 
 ---
 
-## 🌱 Contribution Journey
+## 🌱 How I Contribute
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h2>80+</h2>
-      <strong>Contributions in 2026</strong><br />
-      <sub>Learning, building, and improving in public</sub>
+    <td width="50%" valign="top">
+      <h3>🧩 Product Engineering</h3>
+      <p>Shipping useful features across interfaces, APIs, authentication, data, and deployment—not just isolated code.</p>
     </td>
-    <td width="33%" align="center">
-      <h2>9+</h2>
-      <strong>Public Repositories</strong><br />
-      <sub>Experiments, tools, and production-minded projects</sub>
+    <td width="50%" valign="top">
+      <h3>🧠 AI Experimentation</h3>
+      <p>Exploring LLM integrations, intelligent assistants, multi-agent workflows, and natural-language product experiences.</p>
     </td>
-    <td width="33%" align="center">
-      <h2>6</h2>
-      <strong>Featured AI Builds</strong><br />
-      <sub>From real-time chat to multi-agent platforms</sub>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Quality & Iteration</h3>
+      <p>Improving architecture, refining user experience, fixing rough edges, and turning prototypes into dependable products.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 Open Collaboration</h3>
+      <p>Learning in public, welcoming feedback, documenting progress, and collaborating on ideas that create real value.</p>
     </td>
   </tr>
 </table>
 
-> **My contribution philosophy:** learn continuously, ship practical work, improve through feedback, and leave every project better than I found it.
+> **My contribution mindset:** stay curious, build with purpose, share what I learn, and improve every project one commit at a time.
 
 <div align="center">
 
-### 🔨 Build · 📚 Learn · 🤝 Collaborate · 🚀 Ship
-
-[**See the live contribution calendar ↓**](https://github.com/muhammadnaheel22-ops#js-contribution-activity)
+[**Explore my live contribution activity ↓**](https://github.com/muhammadnaheel22-ops#js-contribution-activity)
 
 </div>
 
