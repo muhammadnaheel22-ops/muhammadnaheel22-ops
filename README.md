@@ -313,9 +313,18 @@ I'm interested in products that combine **full-stack engineering, intelligent ag
 
 <div align="center">
 
+## 🤝 Let's Connect
+
+I'm always happy to connect with developers, AI builders, and people working on meaningful products.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Naheel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naheel-766926393)
+[![Instagram](https://img.shields.io/badge/Instagram-@muhammadnaheel04386-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muhammadnaheel04386?igsi=dHBxZ3cwN3Zndmlx)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1EhasQTjbr/)
+[![Gmail](https://img.shields.io/badge/Gmail-muhammadnaheel22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnaheel22@gmail.com)
+
 ### Let's build something useful ⭐
 
-Explore my work, open an issue, or contribute to a project that interests you.
+Explore my work, start a conversation, or contribute to a project that interests you.
 
 </div>
 
