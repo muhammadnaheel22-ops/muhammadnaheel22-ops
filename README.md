@@ -172,6 +172,49 @@ Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast buil
 
 ---
 
+## 🧭 Developer Playbook
+
+<details open>
+<summary><strong>🚀 How I turn an idea into a product</strong></summary>
+
+1. Start with the real user problem—not the technology.
+2. Design the interface, API boundaries, and data model together.
+3. Build the smallest useful version and validate it early.
+4. Add intelligence only where AI creates meaningful value.
+5. Test, secure, monitor, and ship through a repeatable delivery pipeline.
+
+</details>
+
+<details>
+<summary><strong>🤖 How I think about Agentic AI</strong></summary>
+
+- Give every agent a clear role, useful tools, and defined boundaries.
+- Keep memory and context relevant instead of simply making them larger.
+- Design graceful fallbacks when a model or tool cannot complete a task.
+- Measure an agent by the problem it solves—not by how complex it looks.
+
+</details>
+
+<details>
+<summary><strong>🛡️ What production-ready means to me</strong></summary>
+
+- Clean architecture and maintainable code
+- Secure defaults and careful input validation
+- Automated testing and dependable CI/CD
+- Useful logs, monitoring, and observable failures
+- Fast, accessible, and responsive user experiences
+
+</details>
+
+<details>
+<summary><strong>💡 What I want to build next</strong></summary>
+
+I'm interested in products that combine **full-stack engineering, intelligent agents, real-time collaboration, and useful data**—especially developer tools and AI experiences that make difficult work feel simple.
+
+</details>
+
+---
+
 ## 🌱 How I Contribute
 
 <table>
