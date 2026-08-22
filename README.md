@@ -16,13 +16,30 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI student and full-stack developer who enjoys turning ideas into useful, intelligent products. My work focuses on modern web applications, AI-powered tools, agentic systems, and clean user experiences.
+Hi! I'm **Muhammad Naheel** — a Full-Stack Developer and AI/ML enthusiast focused on building intelligent, human-centered products. I enjoy connecting polished web interfaces with reliable backends, useful data systems, and agentic AI workflows that can reason, use tools, and solve real problems.
 
-- 🤖 Building AI assistants, agent platforms, and data tools
-- 🌱 Growing my skills in **AI/ML, full-stack engineering, and scalable systems**
-- 💻 Working with **Python, JavaScript, TypeScript, React, and MySQL**
-- ⚡ Interested in real-time AI, developer tools, automation, and useful SaaS products
-- 🤝 Open to collaborating on innovative AI and open-source projects
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>💻 Full-Stack Development</h3>
+      <p>Building responsive React experiences, backend services, authentication, databases, and complete products from idea to deployment.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI / ML</h3>
+      <p>Creating practical AI experiences with LLM integrations, natural-language interfaces, intelligent data tools, and real-time responses.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 Agentic AI</h3>
+      <p>Exploring multi-agent orchestration, tool-driven workflows, persistent conversations, and document-aware assistants.</p>
+    </td>
+  </tr>
+</table>
+
+- 🔨 I turn ambitious ideas into **working, user-friendly products**
+- ⚙️ I work across **React, TypeScript, JavaScript, Python, Node.js, MySQL, and Firebase**
+- 🚀 I care about **clean interfaces, thoughtful architecture, and reliable delivery**
+- 🌱 I learn by building, experimenting, and improving every project
+- 🤝 I'm open to collaborating on meaningful AI and open-source products
 
 ---
 
