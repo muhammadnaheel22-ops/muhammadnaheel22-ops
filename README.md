@@ -124,6 +124,18 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 
 ---
 
+## 📈 Live Contribution Graph
+
+<div align="center">
+
+[![Muhammad Naheel's contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadnaheel22-ops&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Naheel%27s%20Contribution%20Graph)](https://github.com/muhammadnaheel22-ops#js-contribution-activity)
+
+<sub>Updated automatically from my public GitHub activity.</sub>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
