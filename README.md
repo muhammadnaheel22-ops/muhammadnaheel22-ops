@@ -9,6 +9,8 @@
 [![Profile views](https://komarev.com/ghpvc/?username=muhammadnaheel22-ops&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/muhammadnaheel22-ops)
 [![GitHub followers](https://img.shields.io/github/followers/muhammadnaheel22-ops?label=Followers&style=flat&color=0e75b6)](https://github.com/muhammadnaheel22-ops?tab=followers)
 [![Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=flat&logo=github)](https://github.com/muhammadnaheel22-ops?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naheel-766926393)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:muhammadnaheel22@gmail.com)
 
 </div>
 
