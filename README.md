@@ -90,6 +90,40 @@ I'm an AI student and full-stack developer who enjoys turning ideas into useful,
 
 ---
 
+## 🌱 Contribution Journey
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h2>80+</h2>
+      <strong>Contributions in 2026</strong><br />
+      <sub>Learning, building, and improving in public</sub>
+    </td>
+    <td width="33%" align="center">
+      <h2>9+</h2>
+      <strong>Public Repositories</strong><br />
+      <sub>Experiments, tools, and production-minded projects</sub>
+    </td>
+    <td width="33%" align="center">
+      <h2>6</h2>
+      <strong>Featured AI Builds</strong><br />
+      <sub>From real-time chat to multi-agent platforms</sub>
+    </td>
+  </tr>
+</table>
+
+> **My contribution philosophy:** learn continuously, ship practical work, improve through feedback, and leave every project better than I found it.
+
+<div align="center">
+
+### 🔨 Build · 📚 Learn · 🤝 Collaborate · 🚀 Ship
+
+[**See the live contribution calendar ↓**](https://github.com/muhammadnaheel22-ops#js-contribution-activity)
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
